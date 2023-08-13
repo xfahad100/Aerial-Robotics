@@ -10,7 +10,7 @@ StraightLine trajectory output:
 ![tune PD such that drone stables at y=4, z=0](2D-planar-control-Quadrotor/docs/result-line.png)
 
 Sinewave trajectory output:
-![notice that drone covers 1 cycle around y=2](2D-planar-control-Quadrotor/docs/result-sine.png)
+![notice that drone covers 1 cycle around y=2](2D-planar-control-Quadrotor/docs/result-sine1.png)
 
 My position error based on PD params:
 ![Tuned parameters and control law equations](2D-planar-control-Quadrotor/docs/pos-error.png)
