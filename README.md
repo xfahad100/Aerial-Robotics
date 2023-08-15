@@ -1,6 +1,8 @@
 # Aerial-Robotics
 This is a repo for Coursera's Aerial Robotics
 
+2D TRAJECTORY CONTROL OF QUADROTOR:
+
 This assignment was focused on obtaining linearized equation of motions for quadrotor in 2D plan (Y-Z). A simple PD controller has been used in each plant (phi, u1, u2).
 
 The resulting equations and PD controller tuned parameters are shown below:
@@ -14,3 +16,7 @@ Sinewave trajectory output:
 
 My position error based on PD params:
 ![Tuned parameters and control law equations](2D-planar-control-Quadrotor/docs/pos-error.png)
+
+3D TRAJECTORY CONTROL OF QUADROTOR:
+
+will update soon! but my controllers are working fine!
